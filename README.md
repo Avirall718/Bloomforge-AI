@@ -1,0 +1,2 @@
+# Bloomforge-AI
+Passion project
